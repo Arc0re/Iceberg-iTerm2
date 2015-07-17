@@ -1,5 +1,5 @@
 # Iceberg-iTerm2
-Port of the http://cocopon.me/app/vim-iceberg/ terminal.app theme to iTerm2
+Port of the http://cocopon.me/app/vim-iceberg/ terminal.app __Iceberg__ theme to iTerm2
 
 ## Installation
 + Download the file called __iceberg.itermcolors__.
